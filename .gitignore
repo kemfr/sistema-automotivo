@@ -1,0 +1,20 @@
+
+# Arquivos de ambiente e credenciais
+.env
+.env.*
+!.env.example
+
+# Arquivos gerados pelo Java e Maven
+**/target/
+**/*.class
+
+# Configurações de editores
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Arquivos temporários
+.DS_Store
+Thumbs.db
